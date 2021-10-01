@@ -13,11 +13,11 @@ pip install pyautogui
 
 pip install keyboard
 
-Change the parameters of the script
+Change the parameters of the script:
 
-`TimeDelayBetweenAction` is the delay between an action
+`TimeDelayBetweenAction` is the delay between an action (in Seconds)
 
-`keypress` is a list of keyboard key you want to press
+`keypress` is a list of keyboard key you want to press (Currently `a`, `s`, `d`, `f`)
 
 
 To run the script simply open up CMD or Anaconda and type:
