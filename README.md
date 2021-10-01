@@ -25,7 +25,7 @@ To run the script simply open up CMD or Anaconda and type:
 python <file_location>new_world_no_afk.py
 
 
-Exit the script by spamming "ctrl + c" or close the CMD window
+Exit the script by spamming "ctrl + c" or alt+tab to close the CMD window
 
 
 Happy gaming!
