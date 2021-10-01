@@ -20,7 +20,7 @@ Change the parameters of the script to your liking:
 `keypress` is a list of keyboard key you want to press (Currently `a`, `s`, `d`, `f`)
 
 
-To run the script simply open up CMD or Anaconda and type:
+To run the script simply open up CMD or Anaconda and type while in game:
 
 python <file_location>new_world_no_afk.py
 
