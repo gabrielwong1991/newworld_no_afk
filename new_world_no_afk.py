@@ -26,7 +26,7 @@ def main():
     while True:
         if keyboard.is_pressed('ctrl+c'):
             break
-        gui.moveTo(gen_random(x+1), gen_random(y+1))
+        # gui.moveTo(gen_random(x+1), gen_random(y+1))
         time.sleep(gen_random(TimeDelayBetweenAction+1))
         gui.press(keypress[gen_random(len(keypress)+1)])
     
@@ -34,7 +34,7 @@ def main():
 # Define the action interval time #
 TimeDelayBetweenAction = 5
 # Change keypress to any button you want to press #
-keypress = ["a", "s", "d", "f"]
+keypress = ["a", "s", "d", "w"]
 x, y = screen_size()
 ##########################################################
 
