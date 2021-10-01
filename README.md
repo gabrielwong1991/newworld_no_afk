@@ -1,5 +1,5 @@
 
-A very simple script to avoid getting kick out of server for AFK
+A very simple script to avoid getting kick out of server for AFK \n
 Very useful at the moment when queue times to server is high
 
 To use this script you will need python with administrator access
